@@ -11,6 +11,6 @@ A small app that I am building to practice making API calls and working with mod
 
 **API Used:** https://icanhazdadjoke.com/api
 
-**Images:**
+**Image:**
 
 ![IMG3](/img3.png)
